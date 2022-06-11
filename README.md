@@ -1,3 +1,3 @@
 # cookbook
 
-A recipe app made with flutte.
+A recipe app made with flutter.
